@@ -198,4 +198,4 @@ This repository serves as the official landing page for **Spool Queue Viewer++**
 **Get the most recent version of Spool Queue Viewer++ today!**
 
 ---
-**Last updated:** 2026-11-13 10:27:21 UTC
+**Last updated:** 2026-11-13 18:21:01 UTC
